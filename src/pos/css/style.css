@@ -1,0 +1,19 @@
+.botao:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.cbTipoPessoa:hover {
+	-fx-cursor: hand;
+}
+
+.cbTipoPessoa {
+	-fx-font: 15px tahoma;
+}
+
+.btLimpar {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
